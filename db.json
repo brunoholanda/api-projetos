@@ -1,0 +1,17 @@
+{
+    "projetos":
+    [
+        {
+            "name": "Site da Dentista",
+            "link": "https://github.com/seu-usuario/projeto1"
+        },
+        {
+            "name": "Cotacao do Dolar em Python",
+            "link": "https://github.com/brunoholanda/cotacaoPython-rpi"
+        },
+        {
+            "name": "Cardapio",
+            "link": "https://github.com/brunoholanda/cardapio-andre"
+        }
+    ]
+}

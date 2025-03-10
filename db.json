@@ -12,6 +12,10 @@
         {
             "name": "Cardapio",
             "link": "https://github.com/brunoholanda/cardapio-andre"
+        },
+                {
+            "name": "Email Edit MVP",
+            "link": "https://github.com/brunoholanda/mvp-email-edit"
         }
     ]
 }
